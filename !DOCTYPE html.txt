@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1Next Step Initiative Tennessee</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #6a1b9a; /* Purple */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #00695c; /* Teal */
+        }
+        .donate-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px 0;
+            font-size: 16px;
+            color: white;
+            background-color: #00695c; /* Teal */
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            text-align: center;
+        }
+        .donate-button:hover {
+            background-color: #004d40; /* Darker Teal */
+        }
+        footer {
+            background-color: #6a1b9a; /* Purple */
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>1Next Step Initiative Tennessee</h1>
+    </header>
+    <section>
+        <h2>About Us</h2>
+        <p>Welcome to the 1Next Step Initiative Tennessee! We are dedicated to making a difference in our community through various programs and initiatives. Our mission is to provide support and resources to those in need, helping them take the next step towards a better future.</p>
+        
+        <h2>Support Our Cause</h2>
+        <p>Your support is crucial to our success. By donating, you help us continue our work and reach more people in need. Every contribution makes a difference.</p>
+        <a href="https://www.yourdonationlink.com" class="donate-button" target="_blank">Donate Now</a>
+    </section>
+    <footer>
+        <p>&copy; 2024 1Next Step Initiative Tennessee</p>
+    </footer>
+</body>
+</html>
